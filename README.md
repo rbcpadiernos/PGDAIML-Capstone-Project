@@ -1,1 +1,1 @@
-# PGDAIML-Capstone-Project
+# Licensure-exam-success-prediction
